@@ -1,0 +1,10 @@
+{
+    "iconId":1,
+    "cityName": "swansea",
+    "temp": 5,
+    "tempMin": 3,
+    "tempMax": 7,
+    "icon": "11d",
+    "mainWeather": "Thunderstorm",
+    "descriptionWeather": "thunderstorm with light rain"
+}

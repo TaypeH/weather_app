@@ -1,0 +1,28 @@
+{
+    "toggleTheme": "Toggle Theme",
+    "forecastFor": "Weather forecast for",
+    "weatherToday": "Today`s weather in",
+    "months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "daysWeek": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ]
+}

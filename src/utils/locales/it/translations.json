@@ -1,0 +1,27 @@
+{
+    "toggleTheme": "Cambia tema",
+    "forecastFor": "Previsioni del tempo per",
+    "months": [
+        "Gennaio",
+        "Febbraio",
+        "Marzo",
+        "Aprile",
+        "Maggio",
+        "Giugno",
+        "Luglio",
+        "Agosto",
+        "Settembre",
+        "Ottobre",
+        "Novembre",
+        "Dicembre"
+    ],
+    "daysWeek": [
+        "Domenica",
+        "Lunedì",
+        "Martedì",
+        "Mercoledì",
+        "Giovedì",
+        "Venerdì",
+        "Sabato"
+    ]    
+}
